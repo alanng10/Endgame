@@ -57,3 +57,5 @@ Endgame has major.
 Endgame is scenario end.
 
 Endgame is base on Gain.
+
+Endgame is most gain choose base on scenario can.
