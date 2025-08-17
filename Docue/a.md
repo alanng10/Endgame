@@ -54,8 +54,8 @@ Endgame has park cross.
 
 Endgame has major.
 
-Endgame is scenario end.
+Endgame is game end.
 
 Endgame is base on Gain.
 
-Endgame is most gain choose base on scenario can.
+Endgame is most gain choose base on game can.
