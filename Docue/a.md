@@ -59,3 +59,5 @@ Endgame is game end.
 Endgame is base on Gain.
 
 Endgame is most gain choose base on game can.
+
+Endgame is most gain base choose base on game can.
