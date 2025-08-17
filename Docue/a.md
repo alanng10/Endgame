@@ -53,3 +53,5 @@ Endgame has park mark.
 Endgame has park cross.
 
 Endgame has major.
+
+Endgame is scenario end.
