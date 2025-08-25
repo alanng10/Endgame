@@ -69,3 +69,5 @@ Arti tool none worth in Endgame.
 Arti tool none mark in Endgame.
 
 Arti tool none park in Endgame.
+
+Arti tool is null in Endgame.
