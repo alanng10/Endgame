@@ -62,8 +62,6 @@ Endgame is most gain choose base on game can.
 
 Endgame is most gain base choose base on game can.
 
-Arti tool none gain in Endgame.
-
 Arti tool none worth in Endgame.
 
 Arti tool none mark in Endgame.
